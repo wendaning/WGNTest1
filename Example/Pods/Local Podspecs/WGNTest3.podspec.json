@@ -1,0 +1,22 @@
+{
+  "name": "WGNTest3",
+  "version": "0.1.0",
+  "summary": "A short description of WGNTest3.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/1802379221@qq.com/WGNTest3",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "1802379221@qq.com": "wenguoning@inke.cn"
+  },
+  "source": {
+    "git": "https://github.com/1802379221@qq.com/WGNTest3.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "WGNTest3/Classes/**/*"
+}

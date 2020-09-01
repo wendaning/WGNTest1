@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - WGNTest3 (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - WGNTest3 (from `../`)
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  WGNTest3:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  WGNTest3: 0becac93ae3572ac4603f3f7ed61393526fe3abb
+
+PODFILE CHECKSUM: 57c747133c93221a9a67991275241b08352d7b8d
+
+COCOAPODS: 1.9.0.beta.2
